@@ -41,11 +41,9 @@ Completed: 2025
 - Project planning
 
 ### Academic & Professional Interests
-- Artificial Intelligence & AI Governance
-- Cybersecurity & Risk Management
-- Software Architecture
-- DevOps Practices
-- Research in emerging technologies
+- Software Engineering & Scalable Systems
+- AI Governance
+- Cybersecurity Risk Management
 
 ---
 
@@ -75,13 +73,6 @@ A digital initiative aimed at fighting hunger in South Africa.
 - Acts as an intermediary between sponsors and charities  
 - Role: Co-founder, website development & strategy  
 - Outcome: Reached finals hosted in Cape Town  
-
-### 🏑 Hockey Management Experience
-Manager, UWC Men’s 2nd Hockey Team (2025 – Present)
-
-- Manage team operations and logistics  
-- Coordinate fixtures and stakeholder communication  
-- Maintain player documentation and compliance records  
 
 ---
 
