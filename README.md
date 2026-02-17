@@ -50,15 +50,18 @@ Completed: 2025
 ## Projects & Competitions
 
 ### Campus Events Management System (Software Engineering Project)
-Developed a Campus Events Management System as part of a final-year Software Engineering module.
+
+Designed and developed a Campus Events Management System to centralise university events and improve student awareness of on-campus activities.
+
+The platform was created to address the issue of students missing important programmes and events due to email overload and fragmented communication channels.
 
 - Role: Group Leader
-- Led system design discussions and task delegation
+- Led system design and task allocation
 - Coordinated development timelines and deliverables
-- Contributed to system analysis, documentation, and implementation
-- Applied SDLC principles and Agile concepts
+- Contributed to requirements analysis, system documentation, and implementation
+- Applied SDLC principles and Agile methodologies
 
-Outcome: Successfully delivered a functional academic project demonstrating software engineering best practices.
+Outcome: Delivered a functional web-based solution aimed at improving information accessibility and student engagement.
 
 ### Page Swap (Student Marketplace)
 A student-to-student marketplace platform for buying and selling textbooks and notes.  
