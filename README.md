@@ -23,7 +23,7 @@ Completed: 2025
 
 ## Skills & Interests
 
-### 💻 Technical Skills
+### Technical Skills
 - Python
 - SQL
 - Java 
@@ -32,7 +32,7 @@ Completed: 2025
 - Network Fundamentals
 - Agile & SDLC methodologies
 
-### 🤝 Soft Skills
+### Soft Skills
 - Leadership (Hockey Team Manager 2025 – Present)
 - Communication
 - Team coordination
@@ -40,7 +40,7 @@ Completed: 2025
 - Problem-solving
 - Project planning
 
-### 🎯 Academic & Professional Interests
+### Academic & Professional Interests
 - Artificial Intelligence & AI Governance
 - Cybersecurity & Risk Management
 - Software Architecture
@@ -51,7 +51,7 @@ Completed: 2025
 
 ## Projects & Competitions
 
-### 🎓 Campus Events Management System (Software Engineering Project)
+### Campus Events Management System (Software Engineering Project)
 Developed a Campus Events Management System as part of a final-year Software Engineering module.
 
 - Role: Group Leader
@@ -62,14 +62,14 @@ Developed a Campus Events Management System as part of a final-year Software Eng
 
 Outcome: Successfully delivered a functional academic project demonstrating software engineering best practices.
 
-### 📚 Page Swap (Student Marketplace)
+### Page Swap (Student Marketplace)
 A student-to-student marketplace platform for buying and selling textbooks and notes.  
 
 - Designed secure authentication using university credentials  
 - Planned escrow-based payment system for safer transactions  
 - Role: System design & security architecture planning  
 
-### 🌍 Bytes for Hope (GirlCode Hackathon Finalist)
+### Bytes for Hope (GirlCode Hackathon Finalist)
 A digital initiative aimed at fighting hunger in South Africa.  
 
 - Acts as an intermediary between sponsors and charities  
@@ -103,3 +103,5 @@ No publications yet.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesethu-vuma-609017221/)
+[![Personal Email](https://img.shields.io/badge/Email-Personal-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sesevum02@gmail.com)
+[![UWC Email](https://img.shields.io/badge/Email-UWC-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4123619@myuwc.ac.za)
