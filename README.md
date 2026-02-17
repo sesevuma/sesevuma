@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## A. Personal Introduction
+## Personal Introduction
 
 I am **Sesethu Vuma**, an Honours student in Computer Science at the University of the Western Cape. I completed my undergraduate degree in Computer Science in 2025.
 
@@ -10,7 +10,7 @@ My career goal is to become a skilled software engineer and researcher, focusing
 
 ---
 
-## B. Education
+## Education
 
 **University of the Western Cape (UWC)**  
 BSc Honours in Computer Science  
@@ -21,7 +21,7 @@ Completed: 2025
 
 ---
 
-## C. Skills & Interests
+## Skills & Interests
 
 ### 💻 Technical Skills
 - Python
@@ -49,7 +49,7 @@ Completed: 2025
 
 ---
 
-## D. Projects & Competitions
+## Projects & Competitions
 
 ### 🎓 Campus Events Management System (Software Engineering Project)
 Developed a Campus Events Management System as part of a final-year Software Engineering module.
@@ -85,13 +85,13 @@ Manager, UWC Men’s 2nd Hockey Team (2025 – Present)
 
 ---
 
-## E. Publications
+## Publications
 
 No publications yet.
 
 ---
 
-## F. Affiliations & Memberships
+## Affiliations & Memberships
 
 - Honours Student – Computer Science, University of the Western Cape  
 - Manager – UWC Men’s 2nd Hockey Team  
